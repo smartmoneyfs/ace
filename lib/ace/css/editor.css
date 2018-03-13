@@ -195,6 +195,10 @@
     font: inherit !important;
 }
 
+.ace_text-layer div {
+    contain: strict;
+}
+
 .ace_cjk {
     display: inline-block;
     text-align: center;
