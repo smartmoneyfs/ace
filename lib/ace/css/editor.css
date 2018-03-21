@@ -73,6 +73,11 @@
 }
 
 .ace_gutter-cell {
+    will-change: transform;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
     padding-left: 19px;
     padding-right: 6px;
     background-repeat: no-repeat;
