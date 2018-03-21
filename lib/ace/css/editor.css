@@ -205,6 +205,11 @@
 
 .ace_text-layer div {
     contain: strict;
+    will-change: transform;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
 }
 
 .ace_cjk {
