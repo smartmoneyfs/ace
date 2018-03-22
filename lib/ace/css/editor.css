@@ -107,7 +107,6 @@
     right: 0;
     bottom: 0;
     z-index: 6;
-    display: none; /*TODO*/
 }
 
 .ace_scrollbar-inner {
